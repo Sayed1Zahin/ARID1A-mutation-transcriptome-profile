@@ -93,7 +93,3 @@ ARID1A, a chromatin remodeler, is frequently mutated in OCCC. Meanwhile, EZH2, a
 
 Original study:
 Bitler, B. G., et al. (2015). *Targeting EZH2 methyltransferase activity in ARID1A mutated cells as a synthetic lethal therapeutic strategy*. **[GSE54979](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE54979)**.
-
----
-
-Let me know if you'd like a `LICENSE`, `sessionInfo()` log, or setup instructions for `renv` or `BiocManager::install()` in the README too!
